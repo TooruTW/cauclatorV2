@@ -47,6 +47,10 @@
     font-size: 1.5rem;
 }
 
+span{
+    margin: 0 1rem 0;
+}
+
 .buttons{
     background-color: transparent;
     margin: 0rem auto 1rem;
